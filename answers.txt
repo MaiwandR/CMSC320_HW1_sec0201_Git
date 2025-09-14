@@ -7,3 +7,11 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science is used across many industries—healthcare (predicting readmissions), finance (fraud detection), retail/e-commerce (recommendations and demand forecasting), marketing (customer segmentation), transportation/logistics (route and ETA optimization), and manufacturing (predictive maintenance). Example: an online retailer analyzes browsing and purchase history to recommend products and forecast demand, reducing stockouts and boosting sales.
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merge: combines branches by creating a merge commit; keeps true history; safe for shared branches.
+git checkout main && git merge feature
+
+Rebase: replays your commits onto a new base (rewrites SHAs); makes history linear; avoid on shared branches.
+git checkout feature && git rebase main
