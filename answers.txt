@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science is used across many industries—healthcare (predicting readmissions), finance (fraud detection), retail/e-commerce (recommendations and demand forecasting), marketing (customer segmentation), transportation/logistics (route and ETA optimization), and manufacturing (predictive maintenance). Example: an online retailer analyzes browsing and purchase history to recommend products and forecast demand, reducing stockouts and boosting sales.
