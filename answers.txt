@@ -1,4 +1,4 @@
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Everything in the world deals with data in some form so Data Science can be used in a variety of fields. Fields like finance, computer
-science, data analytics, bussiness and more all rely on data science in some way.
+science, data analytics, bussiness ,and more all rely on data science in some way.
